@@ -1,0 +1,52 @@
+# Repozitář ke kurzu Pyth2 v ICTpro
+Kurz proběhl prezenčně v Praze v termínu 15.-17. prosince 2025
+
+## Náplň kurzu
+
+- Přehled základních vlastností jazyka
+  - Proměnné a reference
+  - Standardní datové typy
+  - Řídící struktury
+- Organizace projektu
+  - Funkce
+  - Třídy a metody
+  - Moduly a balíčky
+  - Distribuce software
+- Funkce a metody
+  - Poziční a pojmenované parametry
+  - Pokročilé zpracování argumentů
+  - Vnořené funkce a funkcionální prvky
+  - Globální, lokální a vázané proměnné
+- Objektový model
+  - Objektově orientovaný návrh
+  - Datové typy a operace
+  - Speciální metody
+  - Deskriptory
+  - Dědičnost a polymorfie
+  - Vícenásobná dědičnost a mixins
+  - Základní návrhové vzory
+- Generátory a iterátory
+  - Sekvenční datové typy
+  - Generované sekvence
+  - Čtení textových souborů
+- Ukládání a zpracování dat
+  - Ukládání objektů
+  - Datové formáty
+  - Přístup k databázi
+- Ladění a logování
+  - Ladění pomocí výpisů
+  - Standardní logovací knihovna
+  - Debuggery
+- Online komunikace
+  - Webový klient a server
+  - Práce s API
+- Testování
+  - Testování knihoven a aplikací
+  - Organizace testů
+- Paralelní zpracování
+  - Vlákna a procesy
+  - Komunikace a synchronizace
+  - Výkonnostní omezení Pythonu
+- Pokročilá témata
+  - Generování kódu
+  - Monkey patching
