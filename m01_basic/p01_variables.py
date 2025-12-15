@@ -61,3 +61,25 @@ for i in range(len(fruits)):
 print("-"*40)
 for i, fruit in enumerate(fruits):
     print(f"Fruit '{fruit}' is at index {i}")
+
+print("="*80)
+# List comprehension
+#numbers = [1, 2, 3, 4, 5, 6, ]
+numbers = []
+for i in range(1000):
+    numbers.append(i)
+print(f"numbers = {numbers}")
+
+numbers2 = [i for i in range(1000)]
+print(f"numbers2 = {numbers2}")
+
+# Dictionary comprehension
+# List of tuples -> dict
+keys_and_values = [(1, 'a'), (2, 'b'), (3, 'c')]
+dictionary = dict()
+for item in keys_and_values:
+    dictionary[item[0]] = item[1]
+print(f"dictionary = {dictionary}")
+
+dictionary2 = {key: value for (key, value) in keys_and_values}
+print(f"dictionary2 = {dictionary2}")
