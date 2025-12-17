@@ -24,7 +24,7 @@ class PrimeIterator:
         raise StopIteration
 
 
-prime_iterator = PrimeIterator(3)
+prime_iterator = PrimeIterator(20)
 iterator = prime_iterator.__iter__()
 print(iterator.__next__())
 print(iterator.__next__())
