@@ -50,3 +50,5 @@ Kurz proběhl prezenčně v Praze v termínu 15.-17. prosince 2025
 - Pokročilá témata
   - Generování kódu
   - Monkey patching
+
+**Lektor:** Petr Gregor (petr.gregor@email.cz)
